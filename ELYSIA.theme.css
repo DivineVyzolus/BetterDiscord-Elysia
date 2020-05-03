@@ -40,13 +40,13 @@
         --Streaming: rgb(70, 0, 192);
 
         /*  MENUS COLORS  */
-        --darkgrey: rgb(32, 32, 32);
+        --darkgrey: rgb(100, 100, 100);
         --darkgrey5: rgba(6, 6, 6, .75);
         --grey: rgb(100, 100, 100);
         --darkgrey: rgb(6, 6, 6);
         --grey5: rgba(100, 100, 100, .5);
-        --SendMessage: var(--darkgrey);
-        --HoverMessage: var(--grey5);
+        --SendMessage: rgb(100, 100, 100, .5);
+        --HoverMessage: rbg(100, 100, 100, .5);
         --ChatBox: transparent;
         --Sidebar: transparent;
         --TitleBG: transparent;
@@ -54,7 +54,7 @@
         /* CUSTOM TEXTS */
         --JoinUs: "Hey! Wanna have some fun.. Join US !";
         --AddNewServer: "➕ Add a new server";
-        --Close: "🔴";
+        --Close: "❌";
         --Resize: "➕";
         --Hide: "➖";
         --ProfilePic: "Watch me";
@@ -66,7 +66,7 @@
         --Voice: "🔊";
         --Community: "purpies";
         --WelcomeMessage: "Theme base designed by Purple Wizard.";
-        --Watermark: "Made with 💖 by Purple Wizard";
+        --Watermark: "Made with 💖 by epic man!";
         --EditStatus: "Put another status";
         --Folders: "📁";
         --FoldersOpen: "💠";
